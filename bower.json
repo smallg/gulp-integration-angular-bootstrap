@@ -1,0 +1,22 @@
+{
+  "name": "gulp-integration-angular-bootstrap",
+  "version": "0.0.0",
+  "homepage": "https://github.com/smallg/gulp-integration-angular-bootstrap",
+  "authors": [
+    "smallg <gwpxjb@163.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "build"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "angular-latest": "~1.3.15"
+  }
+}
